@@ -38,8 +38,6 @@ An mobile web apps template based on the Vue 3 ecosystem.
 
 - 🍍 [State Management via Pinia](https://pinia.vuejs.org)
 
-- 📲 [PWA](https://github.com/antfu/vite-plugin-pwa)
-
 - 🎨 [UnoCSS](https://github.com/antfu/unocss) - the instant on-demand atomic CSS engine
 
 - 🌍 [I18n ready](./src/locales)
@@ -95,8 +93,7 @@ An mobile web apps template based on the Vue 3 ecosystem.
 - [vite-plugin-vue-devtools](https://github.com/vuejs/devtools-next) - Designed to enhance the Vue developer experience
 - [vueuse](https://github.com/antfu/vueuse) - collection of useful composition APIs
 - [@unhead/vue v2](https://github.com/unjs/unhead) - manipulate document head reactively
-- [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - PWA
-- [vite-plugin-sitemap](https://github.com/jbaubree/vite-plugin-sitemap) - sitemap and robots generator
+
 
 ### Coding Style
 

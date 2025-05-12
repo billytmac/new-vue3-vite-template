@@ -38,8 +38,6 @@ An mobile web apps template based on the Vue 3 ecosystem.
 
 - 🍍 [使用 Pinia 的状态管理](https://pinia.vuejs.org)
 
-- 📲 [PWA](https://github.com/antfu/vite-plugin-pwa)
-
 - 🎨 [UnoCSS](https://github.com/antfu/unocss) - 高性能且极具灵活性的即时原子化 CSS 引擎
 
 - 🌍 [I18n 国际化开箱即用](./src/locales)
@@ -95,8 +93,7 @@ An mobile web apps template based on the Vue 3 ecosystem.
 - [vite-plugin-vue-devtools](https://github.com/vuejs/devtools-next) - 旨在增强Vue开发者体验的Vite插件
 - [vueuse](https://github.com/antfu/vueuse) - 实用的 Composition API 工具合集
 - [@unhead/vue v2](https://github.com/unjs/unhead) - 响应式地操作文档头信息
-- [vite-plugin-pwa](https://github.com/antfu/vite-plugin-pwa) - PWA
-- [vite-plugin-sitemap](https://github.com/jbaubree/vite-plugin-sitemap) - sitemap 和 robots 生成器
+
 
 ### 编码风格
 
