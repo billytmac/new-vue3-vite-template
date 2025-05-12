@@ -20,9 +20,8 @@ An mobile web apps template based on the Vue 3 ecosystem.
 
 [文档](https://easy-temps.github.io/easy-docs/vue3-vant-mobile/) / [交流](https://github.com/easy-temps/vue3-vant-mobile/issues/56) / [反馈](https://github.com/easy-temps/vue3-vant-mobile/issues)
 
-🖥 <a href="https://vue3-vant-mobile.netlify.app">Online Preview</a>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e6828bd2-2904-4c3e-a67c-b97d32aa1275/deploy-status)](https://app.netlify.com/sites/vue3-vant-mobile/deploys)
+
 
 </div>
 
@@ -64,7 +63,6 @@ An mobile web apps template based on the Vue 3 ecosystem.
 
 - 🛡️ Configure [ESM](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) as default
 
-- ☁️ Deploy on [Netlify](https://www.netlify.com), zero-config
 
 <br>
 
@@ -104,7 +102,6 @@ An mobile web apps template based on the Vue 3 ecosystem.
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [pnpm](https://pnpm.js.org/) - fast, disk space efficient package manager
-- [Netlify](https://www.netlify.com/) - zero-config deployment
 - [VS Code Extensions](./.vscode/extensions.json)
   - [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) - Vue 3 `<script setup>` IDE support
   - [Unocss](https://marketplace.visualstudio.com/items?itemName=antfu.unocss) - UnoCSS for VS Code
@@ -165,9 +162,6 @@ pnpm build
 
 And you will see the generated file in `dist` that ready to be served.
 
-### Deploy on Netlify
-
-Go to [Netlify](https://app.netlify.com/start) and select your clone, `OK` along the way, and your App will be live in a minute.
 
 ## Community 👏
 

@@ -20,9 +20,7 @@ An mobile web apps template based on the Vue 3 ecosystem.
 
 [文档](https://easy-temps.github.io/easy-docs/vue3-vant-mobile/) / [交流](https://github.com/easy-temps/vue3-vant-mobile/issues/56) / [反馈](https://github.com/easy-temps/vue3-vant-mobile/issues)
 
-🖥 <a href="https://vue3-vant-mobile.netlify.app">在线预览</a>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e6828bd2-2904-4c3e-a67c-b97d32aa1275/deploy-status)](https://app.netlify.com/sites/vue3-vant-mobile/deploys)
 
 </div>
 
@@ -64,7 +62,6 @@ An mobile web apps template based on the Vue 3 ecosystem.
 
 - 🛡️ 将 [ESM](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) 设为默认
 
-- ☁️ 零配置部署 [Netlify](https://www.netlify.com)
 
 <br>
 
@@ -104,7 +101,6 @@ An mobile web apps template based on the Vue 3 ecosystem.
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [pnpm](https://pnpm.js.org/) - 快, 节省磁盘空间的包管理器
-- [Netlify](https://www.netlify.com/) - 零配置的部署
 - [VS Code Extensions](./.vscode/extensions.json)
   - [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) - Vue 3 `<script setup>` IDE 支持
   - [Unocss](https://marketplace.visualstudio.com/items?itemName=antfu.unocss) - Unocss 智能提示
@@ -164,10 +160,6 @@ pnpm build
 ```
 
 然后你会看到用于发布的 `dist` 文件夹被生成。
-
-### 部署到 Netlify
-
-前往 [Netlify](https://app.netlify.com/start) 并选择你的仓库, 一路 `OK` 下去，稍等一下后，你的应用将被创建。
 
 ## 社区 👏
 
