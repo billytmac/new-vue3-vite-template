@@ -14,12 +14,11 @@ const rootContainingBlockSelectorList = [
 export default {
   plugins: {
     'autoprefixer': {},
-
     // https://github.com/wswmsword/postcss-mobile-forever
     'postcss-mobile-forever': {
       appSelector: '#app',
-      viewportWidth: 375,
-      maxDisplayWidth: 600,
+      viewportWidth: file => file.includes("vant") ? 375 : 750,
+      // maxDisplayWidth: 600,
       border: true,
       rootContainingBlockSelectorList,
     },
