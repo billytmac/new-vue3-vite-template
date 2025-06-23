@@ -18,11 +18,9 @@ An mobile web apps template based on the Vue 3 ecosystem.
 <img src="https://img.shields.io/github/issues-closed/easy-temps/vue3-vant-mobile" alt="issues" />
 </p>
 
-[文档](https://easy-temps.github.io/easy-docs/vue3-vant-mobile/) / [交流](https://github.com/easy-temps/vue3-vant-mobile/issues/56) / [反馈](https://github.com/easy-temps/vue3-vant-mobile/issues)
+[🌐预览](https://vue3-vant-mobile.netlify.app) / [📖文档](https://easy-temps.github.io/easy-docs/vue3-vant-mobile/) / [🗨️交流](https://github.com/easy-temps/vue3-vant-mobile/issues/56) / [📝反馈](https://github.com/easy-temps/vue3-vant-mobile/issues)
 
-🖥 <a href="https://vue3-vant-mobile.netlify.app">在线预览</a>
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e6828bd2-2904-4c3e-a67c-b97d32aa1275/deploy-status)](https://app.netlify.com/sites/vue3-vant-mobile/deploys)
+<a href="https://deepwiki.com/easy-temps/vue3-vant-mobile"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a> [![Netlify Status](https://api.netlify.com/api/v1/badges/e6828bd2-2904-4c3e-a67c-b97d32aa1275/deploy-status)](https://app.netlify.com/sites/vue3-vant-mobile/deploys)
 
 </div>
 
@@ -195,6 +193,7 @@ pnpm build
 <a href="https://github.com/scc0"><img src="https://avatars.githubusercontent.com/u/45963033?v=4" width="60px" alt="scc0" /></a>
 <a href="https://github.com/xiaminxi"><img src="https://avatars.githubusercontent.com/u/37994820?v=4" width="60px" alt="xiaminxi" /></a>
 <a href="https://github.com/wangpeng00544"><img src="https://avatars.githubusercontent.com/u/54630102?v=4" width="60px" alt="wangpeng00544" /></a>
+<a href="https://github.com/ljgx"><img src="https://avatars.githubusercontent.com/u/59424192?v=4" width="60px" alt="ljgx" /></a>
 </p>
 
 <h2 align="center">
@@ -228,6 +227,7 @@ pnpm build
 <a href="https://github.com/csheng-github"><img src="https://avatars.githubusercontent.com/u/88492404?v=4" width="60px" alt="csheng-github" /></a>
 <a href="https://github.com/LostElkByte"><img src="https://avatars.githubusercontent.com/u/24487727?v=4" width="60px" alt="LostElkByte" /></a>
 <a href="https://github.com/xuxichen"><img src="https://avatars.githubusercontent.com/u/18108140?v=4" width="60px" alt="xuxichen" /></a>
+<a href="https://github.com/1411430556"><img src="https://avatars.githubusercontent.com/u/67215517?v=4" width="60px" alt="1411430556" /></a>
 </p>
 
 ## License
